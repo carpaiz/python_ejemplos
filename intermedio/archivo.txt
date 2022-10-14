@@ -1,0 +1,12 @@
+Nombre: Augusto Armando Cardona Paiz
+Direccion: Guatemala zona 5
+Telefono: 5525873
+Nombre: Jose Luis Rodriguez
+Direccion: Guatemala zona 2
+Telefono: 2222222
+Nombre: Pedro Ramirez Lopez
+Direccion: Antigua Guatemala
+Telefono: 55554444
+Nombre: Maria Patricia Lopez Paz
+Direccion: Guatemala zona 11
+Telefono: 2222222
