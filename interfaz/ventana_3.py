@@ -9,7 +9,7 @@ raiz.state('zoomed')
 # Funcion (3)
 txt_nombre = tk.StringVar()
 def mostrar_texto():
-    ttk.Label(frm, text=txt_nombre.get()).grid(column=0, row=3)
+    ttk.Label(frm, text=txt_nombre.get()).grid(column=2, row=2)
 #Formulario (2)
 frm = ttk.Frame(raiz, padding=10)
 frm.grid()
