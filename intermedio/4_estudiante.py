@@ -6,7 +6,7 @@ try :
     nombres = input("Ingrese sus nombres:")
     apellidos = input("Ingrese sus apellidos:")
     direccion = input("Ingrese su direccion:")
-    fh = open("archivo.txt", "a") #fh = open("archivo.txt", "a") abrir al final y con 
+    fh = open("archivo.txt", "a") 
     fh.write("Nombre: "+ nombres + "\n")
     fh.write("Apellidos: "+ apellidos + "\n")
     fh.write("Direccion: "+ direccion + "\n")   
